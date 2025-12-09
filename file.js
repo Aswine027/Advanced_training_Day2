@@ -6,8 +6,8 @@ app.use(express.json());
 
 
 let employees = [
-    { id: 1, name: "Ashifa", role: "Manager", address: "Chennai", salary: 50000 },
-    { id: 2, name: "Aashika", role: "Developer", address: "Erode", salary: 35000 },
+    { id: 1, name: "Aswin", role: "Manager", address: "Chennai", salary: 50000 },
+    { id: 2, name: "Aasha", role: "Developer", address: "Erode", salary: 35000 },
     { id: 3, name: "Ayisha", role: "Tester", address: "Coimbatore", salary: 30000 }
 ];
 
